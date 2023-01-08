@@ -1,27 +1,31 @@
 *{list-style: none;}
 
 section{
-    width: 100vw;
-text-align: center;
+   
+
     
 }
 
 ul{
-    margin: auto;
+   
+   
     display: flex;
     flex-direction: row;
     flex-wrap:wrap ;
-    width:80%;
+    
 }
 
 li{
-    padding: 25px;
- border:solid green;
- margin: 10px;
+    
+    margin: 25px;
+    text-align: center;
+    border:solid green;
+ 
 }
 
 li img{
+   
     /*padding: 25px;*/
     height: 200px;
-    width: 200px;
+    width: 250px;
 }
